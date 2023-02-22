@@ -12,5 +12,4 @@ public class Main {
 		shield.use();
 		sword.use();
 	}
-
 }
