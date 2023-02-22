@@ -3,6 +3,7 @@ HELP.md
 .gradle
 build/
 out/
+design_pattern.iml
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
