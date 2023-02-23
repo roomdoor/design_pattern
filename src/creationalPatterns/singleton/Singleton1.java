@@ -1,4 +1,4 @@
-package creationalPatterns.builder.singleton;
+package creationalPatterns.singleton;
 
 public class Singleton1 {
 	private static final Singleton1 INSTANCE = new Singleton1();

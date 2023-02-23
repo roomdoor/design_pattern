@@ -1,4 +1,4 @@
-package creationalPatterns.builder.fatoryMethod;
+package creationalPatterns.fatoryMethod;
 
 public class Shield implements Item {
 
