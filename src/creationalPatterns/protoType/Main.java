@@ -51,6 +51,11 @@ public class Main {
 		group.addShape(line1).addShape(line2).addShape(line3).addShape(line4);
 		System.out.println(group.draw());
 
+		Group copyGroup = (Group) group.copy();
+		copyGroup.moveOffset(10, 10);
+
+		System.out.println(group.draw());
+		System.out.println(copyGroup.draw());
 	}
 
 }
