@@ -1,4 +1,4 @@
-package singleton;
+package creationalPatterns.builder.singleton;
 
 public class Singleton4 {
 	private volatile static Singleton4 instance;

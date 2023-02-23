@@ -1,4 +1,4 @@
-package fatoryMethod;
+package creationalPatterns.builder.fatoryMethod;
 
 import java.util.HashMap;
 

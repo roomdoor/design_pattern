@@ -1,4 +1,4 @@
-package fatoryMethod;
+package creationalPatterns.builder.fatoryMethod;
 
 public abstract class Factory {
 
