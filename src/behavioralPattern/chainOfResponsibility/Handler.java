@@ -1,4 +1,4 @@
-package behavioralPattern.ChainOfResponsibility;
+package behavioralPattern.chainOfResponsibility;
 
 public abstract class Handler {
 

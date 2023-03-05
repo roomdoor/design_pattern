@@ -1,4 +1,4 @@
-package behavioralPattern.TemplateMethod;
+package behavioralPattern.templateMethod;
 
 public class Main {
 
